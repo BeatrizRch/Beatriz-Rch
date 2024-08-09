@@ -1,4 +1,6 @@
-unction setup() {
+let palavra
+
+function setup() {
     createCanvas(600, 600);
      background("white");
   }
